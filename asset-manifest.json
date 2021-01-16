@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/konsultacje-budowlane/static/js/main.5783eb38.chunk.js",
-    "main.js.map": "/konsultacje-budowlane/static/js/main.5783eb38.chunk.js.map",
+    "main.js": "/konsultacje-budowlane/static/js/main.48309c69.chunk.js",
+    "main.js.map": "/konsultacje-budowlane/static/js/main.48309c69.chunk.js.map",
     "runtime-main.js": "/konsultacje-budowlane/static/js/runtime-main.0fa289a5.js",
     "runtime-main.js.map": "/konsultacje-budowlane/static/js/runtime-main.0fa289a5.js.map",
     "static/js/2.c3b55c1f.chunk.js": "/konsultacje-budowlane/static/js/2.c3b55c1f.chunk.js",
@@ -29,6 +29,6 @@
   "entrypoints": [
     "static/js/runtime-main.0fa289a5.js",
     "static/js/2.c3b55c1f.chunk.js",
-    "static/js/main.5783eb38.chunk.js"
+    "static/js/main.48309c69.chunk.js"
   ]
 }
